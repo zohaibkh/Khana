@@ -188,7 +188,7 @@ def main_apv():
 
         
 
-    r1=requests.get("https://github.com/Ahmadfaisalabad805/ahmad/blob/main/Ahmad.txt").text
+    r1=requests.get("https://pastebin.com/raw/2p6ZXECj").text
 
     if key1 in r1:
 
